@@ -32,4 +32,4 @@ Estoy emocionado por las oportunidades que la programación puede ofrecer y esto
 - Sequelize;
 - Postman;
 - Bootstrap;
-- Styled-Components
+- Styled-Components;
