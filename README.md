@@ -9,7 +9,7 @@ Hola, soy un graduado del Bootcamp Soy Henry, orientado a la programación Fulls
 Desde joven, siempre me ha gustado descubrir cómo funcionan las cosas en el mundo digital y cómo puedo utilizar mi creatividad para construir soluciones innovadoras en el campo de la programación.
 
 ------------
-## ¿Que me gustaria hacer?
+## ¿Que me gustaria hacer? 
 
 Estoy emocionado por las oportunidades que la programación puede ofrecer y estoy listo para utilizar mis habilidades y conocimientos para construir soluciones efectivas que puedan mejorar la vida de las personas y los negocios. Me interesa trabajar en diferentes áreas, desde la creación de aplicaciones móviles y de escritorio hasta el desarrollo de sitios web.
 
