@@ -6,7 +6,7 @@
 
 Hola, soy un graduado del Bootcamp Soy Henry, orientado a la programación Fullstack y me apasiona el mundo de la tecnología.
 
-Desde joven, siempre me ha gustado descubrir cómo funcionan las cosas en el mundo digital y cómo puedo utilizar mi creatividad para construir soluciones innovadoras en el campo de la programación. 
+Desde joven, siempre me ha gustado descubrir cómo funcionan las cosas en el mundo digital y cómo puedo utilizar mi creatividad para construir soluciones innovadoras en el campo de la programación.
 
 ------------
 ## ¿Que me gustaria hacer?
